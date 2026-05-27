@@ -63,12 +63,6 @@ The notebook performs the following cleaning operations:
 
 - Save cleaned dataset to `Dataset/cleaned_dataset.csv`
 
-## Requirements
-
-- Python 3.x
-- pandas
-- numpy
-
 ## Usage
 
 1. Ensure the raw dataset is located at `Dataset/Dataset_for_Data_Analytics.csv`
